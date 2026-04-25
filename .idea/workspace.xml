@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9bf355de-6141-45a2-9729-bdaef86c503a" name="Changes" comment="Experiment 6 completed" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Lab-Experiments" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/abhinavparthnautiyal/Elements-of-AI-ML.git&quot;,
+    &quot;accountId&quot;: &quot;c56d4470-cd9f-426d-8c3e-d2c72f767262&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3Bt9NsPWSOwl8dMMfG65iFpTamO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.PROJECT 1(MINOR).executor": "Run",
+    "Python.Q12.executor": "Run",
+    "Python.Q15.executor": "Run",
+    "Python.Q2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Lab-Experiments",
+    "last_opened_file_path": "C:/Users/Admin/Desktop/Coding/Elements-of-AI-ML/Experiment 09",
+    "settings.editor.selected.configurable": "editor.preferences.folding"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\Coding\Elements-of-AI-ML\Experiment 09" />
+      <recent name="C:\Users\Admin\Desktop\Coding\Elements-of-AI-ML\Experiment 10" />
+      <recent name="C:\Users\Admin\Desktop\Coding\Elements-of-AI-ML\Experiment 07" />
+      <recent name="C:\Users\Admin\Desktop\Coding\Elements-of-AI-ML\Experiment 08" />
+      <recent name="C:\Users\Admin\Desktop\Coding\Elements-of-AI-ML\Experiment 06" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\Coding\Elements-of-AI-ML\Basic Codes" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bf355de-6141-45a2-9729-bdaef86c503a" name="Changes" comment="" />
+      <created>1775297463354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775297463354</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Experiment 4 completed">
+      <option name="closed" value="true" />
+      <created>1775300763958</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775300763958</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Experiment 4 completed">
+      <option name="closed" value="true" />
+      <created>1775301141029</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1775301141029</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Experiment 4 completed">
+      <option name="closed" value="true" />
+      <created>1775301206989</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1775301206989</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Experiment 5 completed">
+      <option name="closed" value="true" />
+      <created>1775305301834</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1775305301834</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Experiment 6 completed">
+      <option name="closed" value="true" />
+      <created>1775306992972</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1775306992972</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Experiment 7 completed">
+      <option name="closed" value="true" />
+      <created>1775308351960</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1775308351960</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Experiment 04 completed">
+      <option name="closed" value="true" />
+      <created>1775766479490</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1775766479490</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Experiment 05 completed">
+      <option name="closed" value="true" />
+      <created>1775766502438</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1775766502438</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Experiment 05 completed">
+      <option name="closed" value="true" />
+      <created>1775766518282</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1775766518282</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Experiment 05 completed">
+      <option name="closed" value="true" />
+      <created>1775766533591</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1775766533591</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Experiment 06 completed">
+      <option name="closed" value="true" />
+      <created>1775766609091</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1775766609091</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Experiment 08 completed">
+      <option name="closed" value="true" />
+      <created>1775766631919</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1775766631919</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Experiment 09 completed">
+      <option name="closed" value="true" />
+      <created>1775766646488</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1775766646488</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Experiment 10 completed">
+      <option name="closed" value="true" />
+      <created>1775766660513</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1775766660513</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Experiment 07 completed">
+      <option name="closed" value="true" />
+      <created>1775767126267</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1775767126267</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Basics completed">
+      <option name="closed" value="true" />
+      <created>1777048028221</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1777048028221</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Experiment 6 completed">
+      <option name="closed" value="true" />
+      <created>1777048047758</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1777048047758</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Experiment 4 completed" />
+    <MESSAGE value="Experiment 5 completed" />
+    <MESSAGE value="Experiment 7 completed" />
+    <MESSAGE value="Experiment 04 completed" />
+    <MESSAGE value="Experiment 05 completed" />
+    <MESSAGE value="Experiment 06 completed" />
+    <MESSAGE value="Experiment 08 completed" />
+    <MESSAGE value="Experiment 09 completed" />
+    <MESSAGE value="Experiment 10 completed" />
+    <MESSAGE value="Experiment 07 completed" />
+    <MESSAGE value="Basics completed" />
+    <MESSAGE value="Experiment 6 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Experiment 6 completed" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Basic Codes/Q2.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
